@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jily.github.io/hcysw.github.io</id>
-    <title>hcysw</title>
-    <updated>2021-10-20T03:19:48.448Z</updated>
+    <title>这里是含草衍生物。</title>
+    <updated>2021-10-20T03:21:14.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jily.github.io/hcysw.github.io"/>
     <link rel="self" href="https://jily.github.io/hcysw.github.io/atom.xml"/>
-    <subtitle>hcyws</subtitle>
+    <subtitle>一个为了....而建的网站</subtitle>
     <logo>https://jily.github.io/hcysw.github.io/images/avatar.png</logo>
     <icon>https://jily.github.io/hcysw.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, hcysw</rights>
-    <entry>
-        <title type="html"><![CDATA[hcysw1111111111]]></title>
-        <id>https://jily.github.io/hcysw.github.io/post/hcysw1111111111/</id>
-        <link href="https://jily.github.io/hcysw.github.io/post/hcysw1111111111/">
-        </link>
-        <updated>2021-10-20T03:19:02.000Z</updated>
-        <content type="html"><![CDATA[<p>122222</p>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2021, 这里是含草衍生物。</rights>
     <entry>
         <title type="html"><![CDATA[hcysw1020]]></title>
         <id>https://jily.github.io/hcysw.github.io/post/hcysw1020/</id>
